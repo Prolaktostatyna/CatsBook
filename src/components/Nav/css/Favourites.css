@@ -1,0 +1,10 @@
+.favouritesGeneral {
+  padding: 0 10px;
+  text-align: right;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.favouritesGeneral:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=Favourites.css.map */

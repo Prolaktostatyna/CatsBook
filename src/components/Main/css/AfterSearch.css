@@ -1,0 +1,13 @@
+.after-search {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.after-search__image {
+  max-width: 400px;
+  max-height: 400px;
+}
+.after-search__ul {
+  list-style: none;
+}/*# sourceMappingURL=AfterSearch.css.map */

@@ -1,0 +1,25 @@
+.searchGeneral {
+  margin: 2px;
+  height: 30px;
+  background-color: #fef4e8;
+  border: 1px solid #fef4e8;
+  border-radius: 10px;
+  color: #970747;
+}
+
+.searchInput {
+  padding: 5px;
+}
+
+.searchButton {
+  width: 70px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.searchButton:hover {
+  background-color: #970747;
+  border: 1px solid #970747;
+  border-radius: 10px;
+  color: #fef4e8;
+}/*# sourceMappingURL=Search.css.map */

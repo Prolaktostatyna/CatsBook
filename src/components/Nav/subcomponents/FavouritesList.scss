@@ -1,0 +1,44 @@
+.favourliteList {
+    padding: 10px 10px;
+    margin: 5px;
+    text-align: center;
+    border: 2px solid #13445a;
+    height: 45%;
+    width: 400px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    &__img{
+        margin: 10px;
+        max-width: 350px;
+        height: 250px;
+        cursor: pointer;
+        transition: .3s;
+
+        &:hover{
+            box-shadow: #970747 0px 0px 4px 4px;
+
+        }
+    }
+
+    &__name{
+        padding: 10px;
+    }
+
+    &__heart{
+        padding: 10px;
+        height: 40px;
+        font-size: 25px;
+        color: #970747;
+        cursor: pointer;
+        transition: .3s;
+
+        &:hover{
+            font-size: 30px;
+        }
+    }      
+
+}

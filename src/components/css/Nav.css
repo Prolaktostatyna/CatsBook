@@ -1,0 +1,41 @@
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-areas: "logo ul";
+  grid-template-columns: auto auto;
+  margin: 0 auto;
+  max-width: 1280px;
+  background-color: #13445a;
+  z-index: 2;
+}
+.nav__logo {
+  grid-area: "logo";
+  height: 55px;
+  min-width: 165px;
+  cursor: pointer;
+}
+.nav__ul {
+  height: 55px;
+  grid-area: "ul";
+  display: grid;
+  grid-template-areas: "li1 li2";
+  grid-template-columns: auto auto;
+  line-height: 55px;
+  list-style: none;
+  color: #fef4e8;
+}
+.nav__li {
+  text-align: center;
+}
+.nav__li:nth-child(1) {
+  text-align: left;
+  grid-area: "li1";
+  min-width: 260px;
+}
+.nav__li:nth-child(2) {
+  grid-area: "li2";
+}/*# sourceMappingURL=Nav.css.map */

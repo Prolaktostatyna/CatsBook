@@ -1,0 +1,11 @@
+.starRate {
+    padding: 5px 0 5px 0; 
+    display: flex;
+    flex-direction: row;
+    color: #13445a;
+
+    &__noData{
+        padding: 5px 0 5px 0; 
+        color: black;
+    }
+}

@@ -1,0 +1,18 @@
+.notFoundGeneral {
+  margin: 0 auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  align-items: center;
+  max-width: 1280px;
+  overflow: hidden;
+}
+
+.notFoundText {
+  top: 200px;
+  color: #970747;
+  font-size: 25px;
+  z-index: 1;
+  text-align: center;
+  background-color: rgba(254, 244, 232, 0.8);
+}/*# sourceMappingURL=NotFound.css.map */
