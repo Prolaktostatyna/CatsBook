@@ -1,3 +1,6 @@
+A project using the free api, where I use React Context. I additionally used: bem, scss, grid, flexbox.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
