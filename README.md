@@ -2,5 +2,5 @@ This React project is using the free cats api. For state management I used React
 
 To run this project you need to go trough few steps:
 
-npm install
-npm start
+1. npm install
+2. npm start
