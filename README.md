@@ -1,6 +1,19 @@
-This React project is using the free cats api. For state management I used React Context, for styles I used: bem, sass (scss), grid, flexbox.
+# GENERAL INFO
+In this application you can check the characteristics of cat breeds. It is possible to add and remove breeds to/from favorites.
 
-To run this project you need to go trough few steps:
+# TECHNOLOGIES
+Project was created using:
+* React with Hooks
+* React Context
+* REST
+* BEM
+* SASS(SCSS)
+* grid
+* flexbox
 
+#  SETUP
+To run this project you need to go trough two steps:
 1. npm install
 2. npm start
+
+Application will be available at: http://localhost:3000/
